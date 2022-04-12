@@ -1040,3 +1040,14 @@ h4 {
         text-align: center;
     }
 }
+
+.txt-1, .txt-2, .txt-3{
+    font-size: 1.4em;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-weight: 500;
+}
+
+.txt-2 em{
+    font-weight: 300;
+    font-size: 1.05em;
+}
